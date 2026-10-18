@@ -2,7 +2,7 @@
 
 ## 1) 스타팅 라이트
 
-https://wokwi.com/projects/478199650170799105
+https://wokwi.com/projects/478233490292486145
 
 ## 2) 속도 측정기
 
