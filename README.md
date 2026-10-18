@@ -8,6 +8,8 @@ https://wokwi.com/projects/478199650170799105
 
 https://wokwi.com/projects/478200866455191553
 
+## 3) 아두이노 업로드 방법
+
 예제 코드를 다운로드 받은 후, 
 
 https://www.arduino.cc/en/software/
