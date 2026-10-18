@@ -10,7 +10,7 @@ https://wokwi.com/projects/478200866455191553
 
 ## 3) 아두이노 업로드 방법
 
-예제 코드를 다운로드 받은 후, 
+압축 파일을 다운로드 받은 후 압축을 해제합니다.
 
 https://www.arduino.cc/en/software/
 
